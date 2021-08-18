@@ -6,6 +6,8 @@
 If you just press a shortcut in xcode, the pod install, carthage bootstrap --platform iOS, etc tasks will be executed.
 
 ## Supported Scripts
+### SwiftLint
+- swift-lint
 ### Pod
 - Pod install
 - Pod update
